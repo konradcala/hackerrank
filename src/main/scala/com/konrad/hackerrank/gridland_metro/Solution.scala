@@ -3,7 +3,7 @@ package com.konrad.hackerrank.gridland_metro
 import java.io._
 
 import scala.collection.MapView
-
+//https://www.hackerrank.com/challenges/gridland-metro/problem
 object Solution {
 
   def convertToPair(row: Array[Int]): Tuple2[Int, Tuple2[Int, Int]] = {
